@@ -1,4 +1,7 @@
 # To-Do List CLI Application
+Date, 2024/06/15
+
+By CLENDA JEPKIRUI
 
 ## Description
 This is a CLI application built using Python that allows users to manage their to-do lists with SQLAlchemy ORM.
